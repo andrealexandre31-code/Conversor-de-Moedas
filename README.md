@@ -1,7 +1,10 @@
 <img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/6f277a55-2348-4471-ad43-3aae949a604b" />
-<h1>Conversor de Moeda</h1>
-<br>
-<h1>Projeto desenvolvido dentro<a href="https://rodolfomori.com.br"/> devclub</a></h1>
+
+# Conversor de Moeda
+
+<img src="./assets/Convert Money.png" width="200" alt="Convert Money" />
+
+# Projeto desenvolvido dentro [devclub](https://rodolfomori.com.br)
 <br>
 <h2>Tecnologia usada no projeto</h2>
 
